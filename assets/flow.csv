@@ -1,18 +1,16 @@
 source,target,value
 All Tradesy Listings,Have Materials,50
 All Tradesy Listings,Do Not Have Materials,50
-Have Materials,Have Multiple Materials,25
 Have Materials,Have A Single Material,25
-Do Not Have Materials,CRM Has Sellers Update Materials,30
-Do Not Have Materials,Sellers Do Not Respond to CRM,20
-Have Multiple Materials,Merch Set Materials,25
-Sellers Do Not Respond to CRM,Merch Set Materials,10
-Sellers Do Not Respond to CRM,Back Burner,10
+Have Materials,Have Multiple Materials,25
+Have Multiple Materials,Materials Updated by Merch,25
 Have A Single Material,Ready for Bulk Update,25
-Merch Set Materials,Ready for Bulk Update,35
-CRM Has Sellers Update Materials,Ready for Bulk Update,30
-Ready for Bulk Update,Shipping Logic Update,90
-Shipping Logic Update,Merch Spot Check,90
-Merch Spot Check,Sync to VC,90
-Back Burner,Merch Set Materials,5
-Back Burner,Final Back Burner,5
+Do Not Have Materials,Materials Updated by Sellers,30
+Materials Updated by Sellers,Ready for Bulk Update,30
+Do Not Have Materials,Materials Not Updated,20
+Materials Not Updated,Materials Updated by Merch,15
+Materials Not Updated,Back Burner,5
+Materials Updated by Merch,Ready for Bulk Update,40
+Ready for Bulk Update,Shipping Logic Update,95
+Shipping Logic Update,Merch Spot Check,95
+Merch Spot Check,Sync to VC,95

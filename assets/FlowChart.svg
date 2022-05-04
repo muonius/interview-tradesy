@@ -1,0 +1,168 @@
+<svg width="1244" height="844" viewBox="0 0 1244 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="FlowChart">
+<text id="Step 1: Auto Scripting" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="11.7891" y="15.3182">Step 1: Auto Scripting</tspan></text>
+<text id="Step 2: CRM &#38; Merch" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="201.188" y="15.3182">Step 2: CRM &#38; Merch </tspan></text>
+<text id="Step 3: Prepare for Bulk Material Update" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="682.242" y="15.3182">Step 3: Prepare for Bulk Material Update </tspan></text>
+<g id="SankeyDiagram">
+<g id="Sankey 1">
+<g id="Group">
+<path id="Vector" d="M16.2083 256.847H1.01303V824.314H16.2083V256.847Z" fill="#FAFAFF" stroke="black"/>
+<path id="Vector_2" d="M180.462 251.518H165.267V535.252H180.462V251.518Z" fill="#DADDFF" stroke="black"/>
+<path id="Vector_3" d="M344.717 393.067H329.521V534.933H344.717V393.067Z" fill="#DADDFF" stroke="black"/>
+<path id="Vector_4" d="M344.717 241.067H329.521V382.933H344.717V241.067Z" fill="#DADDFF" stroke="black"/>
+<path id="Vector_5" d="M180.462 545.906H165.267V829.64H180.462V545.906Z" fill="#DADDFF" stroke="black"/>
+<path id="Vector_6" d="M344.717 668.693H329.521V838.933H344.717V668.693Z" fill="#9FA8FF" stroke="black"/>
+<path id="Vector_7" d="M344.717 545.067H329.521V658.56H344.717V545.067Z" fill="#9FA8FF" stroke="black"/>
+<path id="Vector_8" d="M508.971 394.51H493.775V621.497H508.971V394.51Z" fill="#9FA8FF" stroke="black"/>
+<path id="Vector_9" d="M673.225 266.473H658.029V805.566H673.225V266.473Z" fill="#BDC2FF" stroke="black"/>
+<path id="Vector_10" d="M837.479 265.285H822.283V804.378H837.479V265.285Z" fill="#818DFF" stroke="black"/>
+<path id="Vector_11" d="M1001.73 264.098H986.538V803.191H1001.73V264.098Z" fill="#6773FF" stroke="black"/>
+<path id="Vector_12" d="M1165.99 790.293H1150.79V818.667H1165.99V790.293Z" fill="#E85E0E" stroke="black"/>
+<path id="Vector_13" d="M1165.99 241.067H1150.79V780.16H1165.99V241.067Z" fill="#E85E0E" stroke="black"/>
+</g>
+<g id="Group_2">
+<g id="Group_3" style="mix-blend-mode:multiply">
+<path id="Vector_14" style="mix-blend-mode:multiply" d="M16.2083 398.714C90.7377 398.714 90.7377 393.385 165.267 393.385" stroke="url(#paint0_linear_44_243)" stroke-opacity="0.5" stroke-width="280"/>
+</g>
+<g id="Group_4" style="mix-blend-mode:multiply">
+<path id="Vector_15" style="mix-blend-mode:multiply" d="M16.2083 682.447C90.7377 682.447 90.7377 687.773 165.267 687.773" stroke="url(#paint1_linear_44_243)" stroke-opacity="0.5" stroke-width="280"/>
+</g>
+<g id="Group_5" style="mix-blend-mode:multiply">
+<path id="Vector_16" style="mix-blend-mode:multiply" d="M180.462 322.452C254.992 322.452 254.992 312 329.521 312" stroke="url(#paint2_linear_44_243)" stroke-opacity="0.5" stroke-width="140"/>
+</g>
+<g id="Group_6" style="mix-blend-mode:multiply">
+<path id="Vector_17" style="mix-blend-mode:multiply" d="M180.462 464.318C254.992 464.318 254.992 464 329.521 464" stroke="url(#paint3_linear_44_243)" stroke-opacity="0.5" stroke-width="140"/>
+</g>
+<g id="Group_7" style="mix-blend-mode:multiply">
+<path id="Vector_18" style="mix-blend-mode:multiply" d="M344.717 464C419.246 464 419.246 465.444 493.775 465.444" stroke="url(#paint4_linear_44_243)" stroke-opacity="0.5" stroke-width="140"/>
+</g>
+<g id="Group_8" style="mix-blend-mode:multiply">
+<path id="Vector_19" style="mix-blend-mode:multiply" d="M344.717 312C501.373 312 501.373 337.406 658.029 337.406" stroke="url(#paint5_linear_44_243)" stroke-opacity="0.5" stroke-width="140"/>
+</g>
+<g id="Group_9" style="mix-blend-mode:multiply">
+<path id="Vector_20" style="mix-blend-mode:multiply" d="M180.462 744.52C254.992 744.52 254.992 753.813 329.521 753.813" stroke="url(#paint6_linear_44_243)" stroke-opacity="0.5" stroke-width="168"/>
+</g>
+<g id="Group_10" style="mix-blend-mode:multiply">
+<path id="Vector_21" style="mix-blend-mode:multiply" d="M344.717 753.813C501.373 753.813 501.373 720.446 658.029 720.446" stroke="url(#paint7_linear_44_243)" stroke-opacity="0.5" stroke-width="168"/>
+</g>
+<g id="Group_11" style="mix-blend-mode:multiply">
+<path id="Vector_22" style="mix-blend-mode:multiply" d="M180.462 602.653C254.992 602.653 254.992 601.813 329.521 601.813" stroke="url(#paint8_linear_44_243)" stroke-opacity="0.5" stroke-width="112"/>
+</g>
+<g id="Group_12" style="mix-blend-mode:multiply">
+<path id="Vector_23" style="mix-blend-mode:multiply" d="M344.717 587.627C419.246 587.627 419.246 578.937 493.775 578.937" stroke="url(#paint9_linear_44_243)" stroke-opacity="0.5" stroke-width="84"/>
+</g>
+<g id="Group_13" style="mix-blend-mode:multiply">
+<path id="Vector_24" style="mix-blend-mode:multiply" d="M344.717 644.373C747.754 644.373 747.754 804.48 1150.79 804.48" stroke="url(#paint10_linear_44_243)" stroke-opacity="0.5" stroke-width="28"/>
+</g>
+<g id="Group_14" style="mix-blend-mode:multiply">
+<path id="Vector_25" style="mix-blend-mode:multiply" d="M508.971 508.004C583.5 508.004 583.5 521.833 658.029 521.833" stroke="url(#paint11_linear_44_243)" stroke-opacity="0.5" stroke-width="224"/>
+</g>
+<g id="Group_15" style="mix-blend-mode:multiply">
+<path id="Vector_26" style="mix-blend-mode:multiply" d="M673.225 536.02C747.754 536.02 747.754 534.831 822.283 534.831" stroke="url(#paint12_linear_44_243)" stroke-opacity="0.5" stroke-width="532"/>
+</g>
+<g id="Group_16" style="mix-blend-mode:multiply">
+<path id="Vector_27" style="mix-blend-mode:multiply" d="M837.479 534.831C912.008 534.831 912.008 533.644 986.538 533.644" stroke="url(#paint13_linear_44_243)" stroke-opacity="0.5" stroke-width="532"/>
+</g>
+<g id="Group_17" style="mix-blend-mode:multiply">
+<path id="Vector_28" style="mix-blend-mode:multiply" d="M1001.73 533.644C1076.26 533.644 1076.26 510.613 1150.79 510.613" stroke="url(#paint14_linear_44_243)" stroke-opacity="0.5" stroke-width="532"/>
+</g>
+</g>
+<g id="Group_18">
+<text id="All Tradesy Listings" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="22.2865" y="544.54">All Tradesy Listings</tspan></text>
+<text id="Have Materials" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="186.541" y="397.345">Have Materials</tspan></text>
+<text id="Have Multiple Materials" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="350.795" y="467.96">Have Multiple Materials</tspan></text>
+<text id="Have A Single Material" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="350.795" y="315.96">Have A Single Material</tspan></text>
+<text id="Do Not Have Materials" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="186.541" y="691.733">Do Not Have Materials</tspan></text>
+<text id="Materials Updated by Sellers" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="350.795" y="757.773">Materials Updated by Sellers</tspan></text>
+<text id="Materials Not Updated" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="350.795" y="605.773">Materials Not Updated</tspan></text>
+<text id="Materials Updated by Merch" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="517" y="504.864">Materials Updated&#10;</tspan><tspan x="517" y="519.864"> by Merch</tspan></text>
+<text id="Ready for Bulk Update" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="682.53" y="539.864">Ready for Bulk Update</tspan></text>
+<text id="Shipping Logic Update" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="849.066" y="541.864">Shipping Logic Update</tspan></text>
+<text id="Merch Spot Check" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1008.38" y="543.864">Merch Spot Check</tspan></text>
+</g>
+</g>
+<text id="Back Burner" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1175.02" y="809.864">Back Burner</tspan></text>
+<text id="Sync to VC" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1175.14" y="504.864">Sync to VC</tspan></text>
+</g>
+<rect id="Step3Rect" x="12" y="31" width="165" height="20" fill="url(#paint15_linear_44_243)"/>
+<rect id="Step2Rect" x="199" y="31" width="454" height="20" fill="url(#paint16_linear_44_243)"/>
+<rect id="Step1Rect" x="680" y="31" width="494" height="20" fill="url(#paint17_linear_44_243)"/>
+<text id="Auto-scripting to extract materials." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="18" y="76.3182">Auto-scripting &#10;</tspan><tspan x="18" y="95.3182">to extract materials. </tspan></text>
+<text id="Based on auto-scripting results, CRM reach out to sellers to update materials. Merch clean up existing materials and manually* update priority listings. (*compose CSV files to pass onto dev team)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="200" y="80.3182">Based on auto-scripting results, CRM reach out to sellers </tspan><tspan x="200" y="99.3182">to update materials. Merch clean up existing materials and </tspan><tspan x="200" y="118.318">manually* update priority listings. (*compose CSV files to </tspan><tspan x="200" y="137.318">pass onto dev team)</tspan></text>
+<text id="Legal/ops update shipping logic. Merch spot check high sensitivity listings." fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="680" y="81.3182">Legal/ops update shipping logic. Merch spot check high </tspan><tspan x="680" y="100.318">sensitivity listings.</tspan></text>
+</g>
+<defs>
+<linearGradient id="paint0_linear_44_243" x1="16.2083" y1="235.999" x2="165.267" y2="235.999" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAFAFF"/>
+<stop offset="1" stop-color="#DADDFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_44_243" x1="16.2083" y1="235.998" x2="165.267" y2="235.998" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAFAFF"/>
+<stop offset="1" stop-color="#DADDFF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_44_243" x1="180.462" y1="236" x2="329.521" y2="236" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DADDFF"/>
+<stop offset="1" stop-color="#DADDFF"/>
+</linearGradient>
+<linearGradient id="paint3_linear_44_243" x1="180.462" y1="236.009" x2="329.521" y2="236.009" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DADDFF"/>
+<stop offset="1" stop-color="#DADDFF"/>
+</linearGradient>
+<linearGradient id="paint4_linear_44_243" x1="344.717" y1="236" x2="493.775" y2="236" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DADDFF"/>
+<stop offset="1" stop-color="#9FA8FF"/>
+</linearGradient>
+<linearGradient id="paint5_linear_44_243" x1="344.717" y1="236" x2="658.029" y2="236" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DADDFF"/>
+<stop offset="1" stop-color="#BDC2FF"/>
+</linearGradient>
+<linearGradient id="paint6_linear_44_243" x1="180.462" y1="235.999" x2="329.521" y2="235.999" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DADDFF"/>
+<stop offset="1" stop-color="#9FA8FF"/>
+</linearGradient>
+<linearGradient id="paint7_linear_44_243" x1="344.717" y1="235.999" x2="658.029" y2="235.999" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9FA8FF"/>
+<stop offset="1" stop-color="#BDC2FF"/>
+</linearGradient>
+<linearGradient id="paint8_linear_44_243" x1="180.462" y1="235.994" x2="329.521" y2="235.994" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DADDFF"/>
+<stop offset="1" stop-color="#9FA8FF"/>
+</linearGradient>
+<linearGradient id="paint9_linear_44_243" x1="344.717" y1="236.001" x2="493.775" y2="236.001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9FA8FF"/>
+<stop offset="1" stop-color="#9FA8FF"/>
+</linearGradient>
+<linearGradient id="paint10_linear_44_243" x1="344.717" y1="236" x2="1150.79" y2="236" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9FA8FF"/>
+<stop offset="1" stop-color="#E85E0E"/>
+</linearGradient>
+<linearGradient id="paint11_linear_44_243" x1="508.971" y1="236" x2="658.029" y2="236" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9FA8FF"/>
+<stop offset="1" stop-color="#BDC2FF"/>
+</linearGradient>
+<linearGradient id="paint12_linear_44_243" x1="673.225" y1="236.002" x2="822.283" y2="236.002" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BDC2FF"/>
+<stop offset="1" stop-color="#818DFF"/>
+</linearGradient>
+<linearGradient id="paint13_linear_44_243" x1="837.479" y1="236.001" x2="986.538" y2="236.001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#818DFF"/>
+<stop offset="1" stop-color="#6773FF"/>
+</linearGradient>
+<linearGradient id="paint14_linear_44_243" x1="1001.73" y1="236" x2="1150.79" y2="236" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6773FF"/>
+<stop offset="1" stop-color="#E85E0E"/>
+</linearGradient>
+<linearGradient id="paint15_linear_44_243" x1="296" y1="51" x2="123" y2="51" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9FA8FF"/>
+<stop offset="1" stop-color="#DADDFF"/>
+</linearGradient>
+<linearGradient id="paint16_linear_44_243" x1="224" y1="51.0001" x2="645" y2="51.0001" gradientUnits="userSpaceOnUse">
+<stop offset="0.477435" stop-color="#BDC2FF"/>
+<stop offset="1" stop-color="#6773FF"/>
+</linearGradient>
+<linearGradient id="paint17_linear_44_243" x1="1148.47" y1="31" x2="860.708" y2="31" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E85E0E"/>
+<stop offset="1" stop-color="#6773FF"/>
+</linearGradient>
+</defs>
+</svg>

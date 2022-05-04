@@ -9,14 +9,82 @@ html {
     display: block
 }
 
+
 *, *:before, *:after {
     box-sizing: inherit;
     }
 
+
+header h1 {
+        font-size: 3rem;
+        font-weight: 800;
+        /* color: #263BFF; */
+        background: -webkit-linear-gradient(left,#E85E0E, #263BFF );
+        -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+        text-align: center;
+        margin-left: 25%;
+        margin-right:25%;
+    }
+header p {
+    text-align: center;
+    margin-left: 25%;
+    margin-right:25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#liner {
+    height: 1px;
+    margin-left: 10%;
+    margin-right:10%;
+    background: linear-gradient(to right, #5F9EA0, #0000CD)
+
+}    
+.prompt {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
 .answer {
     text-align: center
 }
 
-.priorities {
-    align-items: center
+#goals {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#priorities {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#recommendations {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#recommendations p {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.description  {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#metrics  {
+    text-align: left;
+    margin-bottom: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    line-height:1.5rem;
+}
+
+.divider {
+    margin-top: 5%;
 }

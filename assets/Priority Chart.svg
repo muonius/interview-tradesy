@@ -1,25 +1,25 @@
-<svg width="498" height="428" viewBox="0 0 498 428" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="465" viewBox="0 0 600 465" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="Priority Chart">
-<path id="Mid 2" d="M55 43H244V189H55V43Z" fill="#DADDFF"/>
-<path id="High 1" d="M244 43.0001H429V189H244V43.0001Z" fill="#263BFF"/>
-<path id="Low 4" d="M55 189H244V335H55V189Z" fill="#FAFAFF"/>
-<path id="Mid 3" d="M244 189H429V335H244V189Z" fill="#ECEEFF"/>
-<path id="Arrow 1" d="M244 0L235.34 15H252.66L244 0ZM245.5 371L245.5 13.5H242.5L242.5 371H245.5Z" fill="#263BFF"/>
-<path id="Arrow 2" d="M487 189L472 180.34L472 197.66L487 189ZM-1.94379e-07 190.5L473.5 190.5L473.5 187.5L1.94379e-07 187.5L-1.94379e-07 190.5Z" fill="#263BFF"/>
-<path id="Arrow 4 W" d="M55 189L429 189" stroke="white" stroke-width="3"/>
-<path id="Arrow 3 W" d="M244 335L244 43.0001" stroke="white" stroke-width="3"/>
+<path id="Mid 2" d="M85 60H274V206H85V60Z" fill="#9FA8FF"/>
+<path id="High 1" d="M274 60.0001H459V206H274V60.0001Z" fill="#263BFF"/>
+<path id="Low 4" d="M85 206H274V352H85V206Z" fill="#FAFAFF"/>
+<path id="Mid 3" d="M274 206H459V352H274V206Z" fill="#ECEEFF"/>
+<path id="Arrow 1" d="M274 0L265.34 15H282.66L274 0ZM275.5 398L275.5 13.5H272.5L272.5 398H275.5Z" fill="#263BFF"/>
+<path id="Arrow 2" d="M560 206L545 197.34V214.66L560 206ZM0 207.5H546.5V204.5H0V207.5Z" fill="#263BFF"/>
+<path id="Arrow 4 W" d="M85 206L459 206" stroke="white" stroke-width="4"/>
+<path id="Arrow 3 W" d="M274 352L274 60.0001" stroke="white" stroke-width="4"/>
 <g id="Priority Bar">
-<text id="Low Priority High Priority" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="192.391" y="420.909">Low Priority       High Priority</tspan></text>
-<rect id="Priority Bar_2" x="192" y="399" width="105" height="8" fill="url(#paint0_linear_3_20)"/>
+<text id="Low Priority High Priority" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="191.586" y="461.864">Low Priority       High Priority</tspan></text>
+<rect id="Priority Bar_2" x="185" y="424" width="174" height="18" fill="url(#paint0_linear_3_20)"/>
 </g>
-<text id="High value" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" font-weight="bold" letter-spacing="0em"><tspan x="260" y="7.90909">High value</tspan></text>
-<text id="Low value" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" font-weight="bold" letter-spacing="0em"><tspan x="256" y="370.909">Low value</tspan></text>
-<text id="Low sell-through" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" font-weight="bold" letter-spacing="0em"><tspan x="0" y="207.909">Low &#10;</tspan><tspan x="0" y="217.909">sell-through</tspan></text>
-<text id="High sell-through" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" font-weight="bold" letter-spacing="0em"><tspan x="438" y="207.909">High &#10;</tspan><tspan x="438" y="217.909">sell-through</tspan></text>
-<text id="Top Priority" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" font-weight="900" letter-spacing="0em"><tspan x="274" y="110.136">Top </tspan><tspan x="274" y="149.136">Priority</tspan></text>
+<text id="High value" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="287" y="25.8636">High value</tspan></text>
+<text id="Low value" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="286" y="391.864">Low value</tspan></text>
+<text id="Low sell-through" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="0" y="229.864">Low &#10;</tspan><tspan x="0" y="244.864">sell-through</tspan></text>
+<text id="High sell-through" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="484" y="228.864">High &#10;</tspan><tspan x="484" y="243.864">sell-through</tspan></text>
+<text id="Top Priority" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" font-weight="900" letter-spacing="0em"><tspan x="304" y="127.136">Top </tspan><tspan x="304" y="166.136">Priority</tspan></text>
 </g>
 <defs>
-<linearGradient id="paint0_linear_3_20" x1="317" y1="410.5" x2="250.5" y2="407" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_3_20" x1="392.143" y1="449.875" x2="281.803" y2="445.598" gradientUnits="userSpaceOnUse">
 <stop stop-color="#263BFF"/>
 <stop offset="1" stop-color="#ECEEFF"/>
 </linearGradient>

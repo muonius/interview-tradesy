@@ -64,12 +64,15 @@ header p {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right:10%;
 }
 
 #recommendations p {
     text-align: center;
     margin-top: 2%;
     margin-bottom: 5%;
+    line-height:1.5rem
 }
 
 .description  {
